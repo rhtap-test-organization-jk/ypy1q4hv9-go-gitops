@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ypy1q4hv9-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ypy1q4hv9-go
